@@ -1,0 +1,10 @@
+Package: pandara.wechatfakelocation
+Name: WeChatFakeLocation
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Pandara
+Author: Pandara
+Section: Tweaks
+Version: 0.0.1-4+debug
+Installed-Size: 140
