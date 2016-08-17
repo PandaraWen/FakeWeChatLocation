@@ -3,13 +3,13 @@ A tweak that can fake location info in WeChat
 
 ### 1. How does it work
 1) Set the location after app finish launching
-![79259IMG_0008.PNG](http://pandarazone.qiniudn.com/79259IMG_0008.PNG)
+![79259IMG_0008.PNG](https://github.com/PandaraWen/FakeWeChatLocation/blob/master/images/79259IMG_0008.PNG)
 
 <br>2) Then when you enter the page "People Nearby", you will see you are located in where you set
-![47304IMG_0010.PNG](http://pandarazone.qiniudn.com/47304IMG_0010.PNG)
+![47304IMG_0010.PNG](https://github.com/PandaraWen/FakeWeChatLocation/blob/master/images/47304IMG_0010.PNG)
 
 <br>3) As well as the page Moments
-![5566IMG_0009.PNG](http://pandarazone.qiniudn.com/5566IMG_0009.PNG)
+![5566IMG_0009.PNG](https://github.com/PandaraWen/FakeWeChatLocation/blob/master/images/5566IMG_0009.PNG)
 
 ### 2. How to install
 #### 2.1 Change some values in Makefile
